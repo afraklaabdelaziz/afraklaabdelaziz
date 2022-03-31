@@ -3,6 +3,16 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&width=600&center=true&lines=full+stack+web+and+mobile+web+developer"></a>
 </p>
+
+## :sassy_man:  About me
+- :school: I am a Junior Web Developer at `YouCode` .
+- :student: I’m currently learning: `Front End` and `Back End`.
+- :thinking: I’m open for: `An Intern` or a new `job opportunity`.
+- :nerd_face: Always `learning new things`
+- 
+<br>
+<br>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afraklaabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="afraklaabdelaziz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afraklaabdelaziz" alt="afraklaabdelaziz" /></a> </p>
