@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afrakla abdelaziz</h1>
 <h3 align="center">full stack web and mobile web developer</h3>
-[![Typing SVG](lines=full+stack+web+and+mobile+web+developer)](https://git.io/typing-svg)
-
+(lines=full+stack+web+and+mobile+web+developer)]
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afraklaabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="afraklaabdelaziz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afraklaabdelaziz" alt="afraklaabdelaziz" /></a> </p>
