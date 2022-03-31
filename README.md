@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Afrakla abdelaziz</h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
-<h3 align="center">full stack web and mobile web developer</h3>
+<h3 align="center">full stack web and mobile web developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afraklaabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="afraklaabdelaziz" /> </p>
 
