@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Afrakla abdelaziz</h1>
 <h3 align="center">full stack web and mobile web developer</h3>
-(lines=full+stack+web+and+mobile+web+developer)]
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=true&lines=full+stack+web+and+mobile+web+developer"></a>
+</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=afraklaabdelaziz&label=Profile%20views&color=0e75b6&style=flat" alt="afraklaabdelaziz" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=afraklaabdelaziz" alt="afraklaabdelaziz" /></a> </p>
