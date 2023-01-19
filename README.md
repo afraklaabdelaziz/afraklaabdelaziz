@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Afrakla abdelaziz</h1>
-<h3 align="center">full stack web and mobile web developer</h3>
+<h3 align="center">full stack web developer</h3>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&width=600&center=true&lines=full+stack+web+and+mobile+web+developer"></a>
 </p>
