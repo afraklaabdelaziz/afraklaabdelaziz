@@ -5,7 +5,7 @@
 </p>
 
 ## :sassy_man:  About me
-- :job: I am a  Web Developer.
+- 💻: I am a  Web Developer.
 - :thinking: I’m open for: `An Intern` or a new `job opportunity`.
 - :nerd_face: Always `learning new things`
 - 
